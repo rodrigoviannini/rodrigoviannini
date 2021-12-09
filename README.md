@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodrigoviannini
+- 👋 Hi, I’m Rodrigo Viannini
 - 👀 I’m interested in python, data sciense, business intelligence, data engineering, artificial intelligence and machine learning
 - 🌱 I'm currently learning data science and artificial intelligence at Let's Code
 - 💞️ I'm looking to collaborate with whoever needs
